@@ -1,0 +1,7 @@
+my_tuple = (1,2,4)
+print(my_tuple)
+print(my_tuple[0])
+print(my_tuple[1:])
+print(my_tuple.index(2))
+another_tuple = ('stefan', 123, 'yippeekiyay', [1, 2, 'zocha'], {'title': '2001 Space oddysey', 'author': 'A.c. clarcke', 'year': 168})
+print(another_tuple)
